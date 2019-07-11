@@ -1,5 +1,3 @@
-This is a sample README.md file based on work performed by the Admin Soft Skills group during the Long Beach, CA Sprint in 2019.
-
 ### Project Name
 Admin Skills and Nonprofit Salesforce Teams
 
