@@ -21,7 +21,7 @@ Help us give you the thanks you deserve and ensure future contributors know who 
 
 Full Name | Team Role | Github Username
 ------------ | ------------- | ------------- |
-Samantha Shain | Group Leader | samantha.shain
+Samantha Shain | Group Leader | [samanthashain](https://github.com/samanthashain)
 Vered Meir | Contributor | veredmeir 
 
 ### Project Vision
