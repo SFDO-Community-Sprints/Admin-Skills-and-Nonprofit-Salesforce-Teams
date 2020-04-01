@@ -17,6 +17,9 @@ https://powerofus.force.com/s/group/0F91E000000brOySAI/admin-skills-nonprofit-sa
 * Pick sections in the [Admin Soft Skills doc](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit) that need more content and group together to add it!
 * In general, help carry this doc to be ready to be published in the near future! We're thinking this can become content on the NPSP documentation page. We also imagine taking really strong chunks of this writing to publish as blog posts.
 
+### Recommended Working Format
+Pick a section where you can offer expertise or extensive personal experience, and form a group of 2-5 others who feel the same. In your working group, identify one person who will be the "Synthesizer / Collator" who will *from the very beginning of the work* be responsible for writing a well-formatted narrative or clean outline of the content you'd like to publish/share by the end of the sprint. Below that synthesized content can be a long collection of thoughts, bullet points, all kinds of material...we just recommend starting at the beginning with having someone keep an eye toward the end of the sprint by bringing together highlight gleanings from the process into a shareable format.
+
 
 ### March 31-April 1 2020 Sprint Project Team Accomplishments
 * Added language to the Admin Soft Skills doc on [Discovery and Requirements Gathering](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.d6zhlmlvcbk). 
