@@ -26,24 +26,25 @@ https://powerofus.force.com/s/group/0F91E000000brOySAI/admin-skills-nonprofit-sa
 
 
 ### March 31-April 1 2020 Sprint Project Team
-Full Name | Team Role | Github Username
------------- | ------------- | ------------- |
-Sam Adiv | Group Leader | [samueladiv](https://github.com/samueladiv)
-Marc Baizman | Contributor | [mbaizman](https://github.com/mbaizman)
-Kelley Bevans | Contributor | [microveldt](https://github.com/microveldt)
-Eric Bruenner | Contributor
-Cheryl Curry | Contributor | [CherylCurry](https://github.com/CherylCurry)
-Ali Ervan | Contributor | [aervan82](https://github.com/aervan82)
-Neil Harmon | Contributor
-Aprille Metcalf | Contributor
-Abby Morrow | Contributor
-Art Ordoqui | Contributor | [aordoquiSFDO](https://github.com/aordoquiSFDO)
-Salvador Orochena | Contributor
-Sandra Prieto | Contributor
-Jeff Putthoff | Contributor
-Jenne Secrest | Contributor | [jsecvol53](https://github.com/jsecvol53)
-Michelle Vose | Contributor
-Tamara Wojdylo | Contributor | [TamaraWo](https://github.com/TamaraWo)
+Full Name | Team Role | Github Username | Working Group
+------------ | ------------- | ------------- | ------------- |
+Sam Adiv | Group Leader | [samueladiv](https://github.com/samueladiv) | Product Owner
+Marc Baizman | Contributor | [mbaizman](https://github.com/mbaizman) | Product Owner
+Kelley Bevans | Contributor | [microveldt](https://github.com/microveldt) | Discovery + Requirements Gathering
+Eric Bruenner | Contributor |  | Product Owner
+Kayleigh Collins | Contributor | | Documentation
+Cheryl Curry | Contributor | [CherylCurry](https://github.com/CherylCurry) | Discovery + Requirements Gathering
+Ali Ervan | Contributor | [aervan82](https://github.com/aervan82) | Discovery + Requirements Gathering
+Neil Harmon | Contributor | | Documentation
+Aprille Metcalf | Contributor | | Documentation
+Abby Morrow | Contributor | | Documentation
+Art Ordoqui | Contributor | [aordoquiSFDO](https://github.com/aordoquiSFDO) | Discovery + Requirements Gathering
+Salvador Orochena | Contributor | | Discovery + Requirements Gathering
+Sandra Prieto | Contributor |  | Documentation
+Jeff Putthoff | Contributor | | Discovery + Requirements Gathering
+Jenne Secrest | Contributor | [jsecvol53](https://github.com/jsecvol53) | Discovery + Requirements Gathering
+Michelle Vose | Contributor |  | Product Owner
+Tamara Wojdylo | Contributor | [TamaraWo](https://github.com/TamaraWo) | Discovery + Requirements Gathering
 
 
 ### Past Project Team Accomplishments (YTD)
