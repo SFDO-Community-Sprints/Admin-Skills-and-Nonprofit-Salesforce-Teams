@@ -38,11 +38,11 @@ Eric Bruenner | Contributor |  | Product Owner
 Kayleigh Collins | Contributor | | Documentation
 Cheryl Curry | Contributor | [CherylCurry](https://github.com/CherylCurry) | Discovery + Requirements Gathering
 Ali Ervan | Contributor | [aervan82](https://github.com/aervan82) | Discovery + Requirements Gathering
-Neil Harmon | Contributor | | Documentation
+Neil Harmon | Contributor | [neilharmon](https://github.com/neilharmon)| Documentation
 Aprille Metcalf | Contributor | | Documentation
 Abby Morrow | Contributor | | Documentation
 Art Ordoqui | Contributor | [aordoquiSFDO](https://github.com/aordoquiSFDO) | Discovery + Requirements Gathering
-Salvador Orochena | Contributor | | Discovery + Requirements Gathering
+Salvador Orochena | Contributor | [sorochena](https://github.com/sorochena) | Discovery + Requirements Gathering
 Sandra Prieto | Contributor |  | Documentation
 Jeff Putthoff | Contributor | | Discovery + Requirements Gathering
 Jenne Secrest | Contributor | [jsecvol53](https://github.com/jsecvol53) | Discovery + Requirements Gathering
