@@ -2,16 +2,25 @@
 Admin Skills and Nonprofit Salesforce Team Roles
 
 ### Project Theme
-Develop models for Salesforce team structures within nonprofit organizations. Catalog resources for effective CRM leadership in nonprofits beyond what is covered within certification materials. For use by Salesforce Administrators, C-Level Nonprofit Executives, and SI Partners.
+Supporting admins + their supervisors in forming strong Salesforce teams. We're currently generating and collating best practice documentation on soft skills related to this role.
 
-### Project Vertical
-Nonprofits + staffing. (But almost all of what we're working on could be extrapolated to any Salesforce team environment, it's just that we are aiming to write from a nonprofit-specific lens to be most helpful to our community.)
+Almost all of what we're working on could be extrapolated to any Salesforce team environment, it's just that we are aiming to write from a nonprofit-specific lens to be most helpful to our community.
 
 ### Hub Group Link
 https://powerofus.force.com/s/group/0F91E000000brOySAI/admin-skills-nonprofit-salesforce-team
 
-### Current Project Team
 
+### March 31-April 1 Sprint Project Team Accomplishments
+* Added language on documentation and requirements gathering in the [Admin Soft Skills doc](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit)
+* Added a new section on the role and mindset of the Product Owner to the above doc
+
+
+### Future Contributions Requested
+* Pick other sections in the soft skills doc and add content
+* Help carry this doc to be ready to be published in the near future!
+
+
+### March 31-April 1 Sprint Project Team
 Full Name | Team Role | Github Username
 ------------ | ------------- | ------------- |
 Sam Adiv | Group Leader | [samueladiv](https://github.com/samueladiv)
@@ -32,24 +41,15 @@ Michelle Vose | Contributor
 Tamara Wojdylo | Contributor | [TamaraWo](https://github.com/TamaraWo)
 
 
-### Past Project Team
 
-Full Name | Team Role | Github Username
------------- | ------------- | ------------- |
-Samantha Shain | Group Leader | [samanthashain](https://github.com/samanthashain)
-Vered Meir | Contributor | veredmeir 
-
-
-### Current Project Team Accomplishments
-What did the Project Team get done during the Sprint?
-
-### Project Team Accomplishments (YTD)
-
+### Past Project Team Accomplishments (YTD)
 * Crafted user stories and sample personas in our [Admin Soft Skills annotated bibliography](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit) (in progress)
 * Created a [Trailmix](https://trailhead.salesforce.com/users/0055000000614D0AAI/trailmixes/admin-soft-skills) for skills
 * Scan/audit of [existing resources](https://docs.google.com/spreadsheets/d/1BYHMNdWDvHSsSPD-JUCSUsXztO8h72AW5P3aF-N4VxQ/edit#gid=0) (see file of existing links)
 * Synced with Marc Baizman/Admin Evangelist Team at SFDC re: blog post
 
-### Future Contributions (AKA what were you unable to finish at the Sprint)
-
-If any community member, or future sprinter, wants to help us get this project finished, please claim one of the tasks below, and message us in the Power of Us hub to let us know you're taking it on! Thank you!
+### Past Project Team
+Full Name | Team Role | Github Username
+------------ | ------------- | ------------- |
+Samantha Shain | Group Leader | [samanthashain](https://github.com/samanthashain)
+Vered Meir | Contributor | veredmeir 
