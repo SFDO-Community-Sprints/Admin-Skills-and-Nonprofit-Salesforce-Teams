@@ -12,25 +12,39 @@ https://powerofus.force.com/s/group/0F91E000000brOySAI/admin-skills-nonprofit-sa
 
 ### Future Contributions Requested
 * Pick sections in the [Admin Soft Skills doc](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit) that need more content and group together to add it!
-* In general, help carry this doc to be ready to be published in the near future! We're thinking this can become content on the NPSP documentation page. We also imagine taking really strong chunks of this writing to publish as blog posts.
+* In general, help carry this doc to be ready to be published in the near future! The document has several options for distribution once it's complete: 
+1. Become content on the NPSP documentation page.
+2. Documentation in a Power of us Hub Group.
+3. Splitting it up into many separate articles. (Even if kept as one document, strong portions could be published as blog posts.)
+* **Editing Needs** Once the document's sections are complete, editing will be necessary. In particular:
+1. Removal of repetitive advice across sections (either link to other relevant section or at least copy the text in multiple places for consistency).
+2. Creation of a consistent 'voice' throughout the document.
 
 ### Recommended Working Format
 Pick a section where you can offer expertise or extensive personal experience, and form a group of 2-5 others who feel the same. In your working group, identify one person who will be the "Synthesizer / Collator" who will *from the very beginning of the work* be responsible for writing a well-formatted narrative or clean outline of the content you'd like to publish/share by the end of the sprint. Below that synthesized content can be a long collection of thoughts, bullet points, all kinds of material...we just recommend starting at the beginning with having someone keep an eye toward the end of the sprint by bringing together highlight gleanings from the process into a shareable format.
 
 ### Current Project Team - September 23rd - 24th 2020
-Full Name          | Team Role     | Github Username                                 
-------------       | ------------- | -------------                                  
-Rachel Ciprotti    | Group Leader  |    
-Adam Kramer        | Group Leader  |          
-Kelley Bevans      | Contributor   |   
-Jyothi Dontha      | Contributor   |        
-Daniel Gorton      | Contributor   |    
-Sam Knox           | Contributor   |          
-Sarah Marovich     | Contributor   |   
-Jessie Rymph       | Contributor   |        
-Jenne Secrest      | Contributor   |    
-Kathy Waterworth   | Contributor   |          
+Full Name          | Team Role     | Github Username                              | Working Group2  
+------------       | ------------- | -------------                                |-------------   
+Rachel Ciprotti    | Group Leader  | [rciprotti](https://github.com/rciprotti)    | Release Management; Troubleshoot User Issues; SFDO/SFDC; Salesforce Careers
+Adam Kramer        | Group Leader  |                                              | Release Management; User Feedback; SFDO/SFDC
+Kelley Bevans      | Contributor   | [microveldt](https://github.com/microveldt)  | Troubleshoot User Issue; End User Training; User Feedback
+Jyothi Dontha      | Contributor   |                                              | End User Training; Troubleshoot User Issues; Salesforce Careers; SFDO/SFDC
+Daniel Gorton      | Contributor   |                                              | Release Management; Salesforce Careers; User Feedback
+Sam Knox           | Contributor   | [sam-knox](https://github.com/sam-knox)      | Troubleshoot User Issues; End User Training; Salesforce Careers
+Sarah Marovich     | Contributor   |                                              | End User Training; Release Management; SFDO/SFDC; User Feedback
+Jessie Rymph       | Contributor   |                                              | Release Management; Troubleshoot User Issues; User Feedback; Salesforce Careers
+Jenne Secrest      | Contributor   | [jsecvol53](https://github.com/jsecvol53)    | Troubleshoot User Issues; Salesforce Careers
+Kathy Waterworth   | Contributor   |                                              | End User Training; End User Training; SFDO/SFDC
    
+### September 23-24 2020 Sprint Project Team Accomplishments
+* Added language to the Admin Soft Skills doc on [Release Management](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.185w5t7eacpf)
+* Added language to the Admin Soft Skills doc on [User Feedback](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.j1b3wito40tz)
+* Added language to the Admin Soft Skills doc on [End User Training](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.eqxpci1ko263)
+* Added language to the Admin Soft Skills doc on [Furthering Your Salesforce Career](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.mp4k3ppuhgn0)
+* Added language to the Admin Soft Skills doc on [Understanding SFDO/SFDC](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.2icq5auqoexp)
+* Added new section called [Understanding Your Business](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.ah8ayq2u3267)
+* Updated organization of document, breaking the sections into three groupings: 1. Optimizing Your Salesforce CRM 2. Interactions with Users 3. Utilizing the Salesforce Ecosystem 
 
 
 ### Past Project Team
