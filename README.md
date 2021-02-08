@@ -23,7 +23,12 @@ https://powerofus.force.com/s/group/0F91E000000brOySAI/admin-skills-nonprofit-sa
 ### Recommended Working Format
 Pick a section where you can offer expertise or extensive personal experience, and form a group of 2-5 others who feel the same. In your working group, identify one person who will be the "Synthesizer / Collator" who will *from the very beginning of the work* be responsible for writing a well-formatted narrative or clean outline of the content you'd like to publish/share by the end of the sprint. Below that synthesized content can be a long collection of thoughts, bullet points, all kinds of material...we just recommend starting at the beginning with having someone keep an eye toward the end of the sprint by bringing together highlight gleanings from the process into a shareable format.
 
-### Current Project Team - September 23rd - 24th 2020
+### Project Team - February 10th - 11th 2021
+Full Name          | Team Role     | Github Username                              | Working Group3 
+------------       | ------------- | -------------                                |-------------   
+Rachel Ciprotti    | Group Leader  | [rciprotti](https://github.com/rciprotti)    | 
+
+### Project Team - September 23rd - 24th 2020
 Full Name          | Team Role     | Github Username                              | Working Group2  
 ------------       | ------------- | -------------                                |-------------   
 Rachel Ciprotti    | Group Leader  | [rciprotti](https://github.com/rciprotti)    | Release Management; Troubleshoot User Issues; SFDO/SFDC; Salesforce Careers
