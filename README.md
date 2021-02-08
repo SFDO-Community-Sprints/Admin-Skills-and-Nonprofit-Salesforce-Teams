@@ -12,7 +12,8 @@ https://powerofus.force.com/s/group/0F91E000000brOySAI/admin-skills-nonprofit-sa
 
 ### Future Contributions Requested
 * Pick sections in the [Admin Soft Skills doc](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit) that need more content, split into groups,  and add content!
-    - Understanding Your Business6. Documentation
+    - Understanding Your Business
+    - Documentation
     - Managing up for Salesforce investment
     - Org Roadmap
     - Project Management
