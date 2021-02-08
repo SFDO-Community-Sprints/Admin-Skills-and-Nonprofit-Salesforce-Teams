@@ -11,17 +11,24 @@ Admin Skills and Nonprofit Salesforce Team Roles
 https://powerofus.force.com/s/group/0F91E000000brOySAI/admin-skills-nonprofit-salesforce-team
 
 ### Future Contributions Requested
-* Pick sections in the [Admin Soft Skills doc](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit) that need more content and group together to add it!
-* In general, help carry this doc to be ready to be published in the near future! The document has several options for distribution once it's complete: 
+* Pick sections in the [Admin Soft Skills doc](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit) that need more content, split into groups,  and add content!
+    - Understanding Your Business6. Documentation
+    - Managing up for Salesforce investment
+    - Org Roadmap
+    - Project Management
+    - Testing
+    - Creating a Governance Program
+    - Maintenance Tasks and Schedule
+* In general, help complete this document so it's ready to be published in the near future. The document has several options for distribution once it's complete: 
 1. Become content on the NPSP documentation page.
 2. Documentation in a Power of us Hub Group.
-3. Splitting it up into many separate articles. (Even if kept as one document, strong portions could be published as blog posts.)
+3. Splitting it up into separate articles. (Even if kept as one document, strong portions could be published as blog posts.)
 * **Editing Needs** Once the document's sections are complete, editing will be necessary. In particular:
-1. Removal of repetitive advice across sections (either link to other relevant section or at least copy the text in multiple places for consistency).
+1. Removal of repetitive advice across sections (either link to another relevant section or at least copy the text in multiple places for consistency).
 2. Creation of a consistent 'voice' throughout the document.
 
 ### Recommended Working Format
-Pick a section where you can offer expertise or extensive personal experience, and form a group of 2-5 others who feel the same. In your working group, identify one person who will be the "Synthesizer / Collator" who will *from the very beginning of the work* be responsible for writing a well-formatted narrative or clean outline of the content you'd like to publish/share by the end of the sprint. Below that synthesized content can be a long collection of thoughts, bullet points, all kinds of material...we just recommend starting at the beginning with having someone keep an eye toward the end of the sprint by bringing together highlight gleanings from the process into a shareable format.
+Pick a section where you can offer expertise or extensive personal experience, and form a group of 3-6 others who feel the same. In your working group, identify one person who will be the "Synthesizer / Scribe" who will *from the very beginning of the work* be responsible for writing a well-formatted narrative or clean outline of the content you'd like to publish/share by the end of the sprint. Below that synthesized content can be a long collection of thoughts, bullet points, all kinds of material...just start at the beginning having someone keep an eye toward the end of the sprint by bringing together the highlights into a shareable format.
 
 ### Project Team - February 10th - 11th 2021
 Full Name          | Team Role     | Github Username                              | Working Group3 
