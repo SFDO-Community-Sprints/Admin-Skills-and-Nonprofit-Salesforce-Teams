@@ -52,10 +52,10 @@ Rodney Zhu           | Contributor   |                                          
 
 
 ### February 10 - 11 2021 Sprint Project Team Accomplishments
-* Added language to the Admin Soft Skills doc on [Maintenance Tasks and Schedule] (https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.am4y8qtjxltg)
-* Added language to the Admin Soft Skills doc on [Understanding Your Business] (https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.ah8ayq2u3267)
-* Added language to the Admin Soft Skills doc on [Org Roadmap] (https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.dejotyyr8bo3)
-* Added language to the Admin Soft Skills doc on [Managing Up for Salesforce Investment] (https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.cl5fiyq73wvf)
+* Added language to the Admin Soft Skills doc on [Maintenance Tasks and Schedule](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.am4y8qtjxltg)
+* Added language to the Admin Soft Skills doc on [Understanding Your Business](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.ah8ayq2u3267)
+* Added language to the Admin Soft Skills doc on [Org Roadmap](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.dejotyyr8bo3)
+* Added language to the Admin Soft Skills doc on [Managing Up for Salesforce Investment](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.cl5fiyq73wvf)
 * Updated organization of document, breaking the sections into four groupings: 1. Optimizing Your Salesforce CRM  2. Core Admin Skills 3. Interaction with Users 4. Utilizing the Salesforce Ecosystem
 
 
