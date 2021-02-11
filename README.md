@@ -33,21 +33,21 @@ Full Name            | Team Role     | Github Username                          
 Rachel Ciprotti      | Group Leader  | [rciprotti](https://github.com/rciprotti)    | 
 John Dray            | Contributor   |                                              | Managing Up for Salesforce
 Dodi Friedenberg     | Contributor   |                                              | Maintenance Tasks
-Emily Hicks-Rotella  | Contributor   |                                              | Strategy for the Project
+Emily Hicks-Rotella  | Contributor   |                                              | Strategy for the Project; Documentation
 Mark Jones           | Contributor   |                                              | Strategy for the Project; Managing Up for Salesforce
 Nandini K            | Contributor   |                                              | Editing for the Project; Strategy for the Project
 Radhika Kosaraju     | Contributor   |                                              | Editing for the Project
 Katie Hourtakis      | Contributor   |                                              | Understanding Your Business; Org Roadmap
-Michael Manning      | Contributor   |                                              | Strategy for the Project; Managing Up for Salesforce
-Dennis Markunas      | Contributor   |                                              | Understanding Your Business; Strategy for the Project
+Michael Manning      | Contributor   |                                              | Strategy for the Project; Managing Up for Salesforce; Project Management
+Dennis Markunas      | Contributor   |                                              | Understanding Your Business; Strategy for the Project; Documentation; Project Management
 Don Miller           | Contributor   |                                              | Strategy for the Project; Editing for the Project
 Srividya Padmanabhan | Contributor   |                                              | Editing for the Project
 Allison Roscoe       | Contributor   |                                              | Editing for the Project
 Jenne Secrest        | Contributor   | [jsecvol53](https://github.com/jsecvol53)    | Strategy for the Project
-John Sims            | Contributor   |                                              | Maintenance Tasks
-Mattie Vukmir        | Contributor   |                                              | Strategy for the Project; Managing Up for Salesforce
+John Sims            | Contributor   |                                              | Maintenance Tasks; Documentation
+Mattie Vukmir        | Contributor   |                                              | Strategy for the Project; Managing Up for Salesforce; Project Management
 Kathy Waterworth     | Contributor   |                                              | Maintenance Tasks; Editing for the Project
-Christy Warren       | Contributor   |                                              | Understanding Your Business; Org Roadmap; Strategy for the Project
+Christy Warren       | Contributor   |                                              | Understanding Your Business; Org Roadmap; Strategy for the Project; Documentation
 Rodney Zhu           | Contributor   |                                              | Editing for the Project; Strategy for the Project
 
 
