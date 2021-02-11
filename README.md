@@ -12,14 +12,10 @@ https://powerofus.force.com/s/group/0F91E000000brOySAI/admin-skills-nonprofit-sa
 
 ### Future Contributions Requested
 * Pick sections in the [Admin Soft Skills doc](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit) that need more content, split into groups,  and add content!
-    - Understanding Your Business
     - Documentation
-    - Managing up for Salesforce investment
-    - Org Roadmap
     - Project Management
     - Testing
     - Creating a Governance Program
-    - Maintenance Tasks and Schedule
 * In general, help complete this document so it's ready to be published in the near future. The document has several options for distribution once it's complete: 
 1. Become content on the NPSP documentation page.
 2. Documentation in a Power of us Hub Group.
@@ -32,14 +28,35 @@ https://powerofus.force.com/s/group/0F91E000000brOySAI/admin-skills-nonprofit-sa
 Pick a section where you can offer expertise or extensive personal experience, and form a group of 3-6 others who feel the same. In your working group, identify one person who will be the "Synthesizer / Scribe" who will *from the very beginning of the work* be responsible for writing a well-formatted narrative or clean outline of the content you'd like to publish/share by the end of the sprint. Below that synthesized content can be a long collection of thoughts, bullet points, all kinds of material...just start at the beginning having someone keep an eye toward the end of the sprint by bringing together the highlights into a shareable format.
 
 ### Project Team - February 10th - 11th 2021
-Full Name          | Team Role     | Github Username                              | Working Group3 
-------------       | ------------- | -------------                                |-------------   
-Rachel Ciprotti    | Group Leader  | [rciprotti](https://github.com/rciprotti)    | 
-
+Full Name            | Team Role     | Github Username                              | Working Group3 
+------------         | ------------- | -------------                                |-------------   
+Rachel Ciprotti      | Group Leader  | [rciprotti](https://github.com/rciprotti)    | 
+John Dray            | Contributor   |                                              | Managing Up for Salesforce
+Dodi Friedenberg     | Contributor   |                                              | Maintenance Tasks
+Emily Hicks-Rotella  | Contributor   |                                              | Strategy for the Project
+Mark Jones           | Contributor   |                                              | Strategy for the Project; Managing Up for Salesforce
+Nandini K            | Contributor   |                                              | Editing for the Project; Strategy for the Project
+Radhika Kosaraju     | Contributor   |                                              | Editing for the Project
+Katie Hourtakis      | Contributor   |                                              | Understanding Your Business; Org Roadmap
+Michael Manning      | Contributor   |                                              | Strategy for the Project; Managing Up for Salesforce
+Dennis Markunas      | Contributor   |                                              | Understanding Your Business; Strategy for the Project
+Don Miller           | Contributor   |                                              | Strategy for the Project; Editing for the Project
+Srividya Padmanabhan | Contributor   |                                              | Editing for the Project
+Allison Roscoe       | Contributor   |                                              | Editing for the Project
+Jenne Secrest        | Contributor   | [jsecvol53](https://github.com/jsecvol53)    | Strategy for the Project
+John Sims            | Contributor   |                                              | Maintenance Tasks
+Mattie Vukmir        | Contributor   |                                              | Strategy for the Project; Managing Up for Salesforce
+Kathy Waterworth     | Contributor   |                                              | Maintenance Tasks; Editing for the Project
+Christy Warren       | Contributor   |                                              | Understanding Your Business; Org Roadmap; Strategy for the Project
+Rodney Zhu           | Contributor   |                                              | Editing for the Project; Strategy for the Project
 
 
 ### February 10 - 11 2021 Sprint Project Team Accomplishments
-* TBD
+* Added language to the Admin Soft Skills doc on [Maintenance Tasks and Schedule] (https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.am4y8qtjxltg)
+* Added language to the Admin Soft Skills doc on [Understanding Your Business] (https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.ah8ayq2u3267)
+* Added language to the Admin Soft Skills doc on [Org Roadmap] (https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.dejotyyr8bo3)
+* Added language to the Admin Soft Skills doc on [Managing Up for Salesforce Investment] (https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.cl5fiyq73wvf)
+* Updated organization of document, breaking the sections into four groupings: 1. Optimizing Your Salesforce CRM  2. Core Admin Skills 3. Interaction with Users 4. Utilizing the Salesforce Ecosystem
 
 
 ### Project Team - September 23rd - 24th 2020
