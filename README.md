@@ -12,8 +12,6 @@ https://powerofus.force.com/s/group/0F91E000000brOySAI/admin-skills-nonprofit-sa
 
 ### Future Contributions Requested
 * Pick sections in the [Admin Soft Skills doc](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit) that need more content, split into groups,  and add content!
-    - Documentation
-    - Project Management
     - Testing
     - Creating a Governance Program
 * In general, help complete this document so it's ready to be published in the near future. The document has several options for distribution once it's complete: 
@@ -56,7 +54,11 @@ Rodney Zhu           | Contributor   |                                          
 * Added language to the Admin Soft Skills doc on [Understanding Your Business](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.ah8ayq2u3267)
 * Added language to the Admin Soft Skills doc on [Org Roadmap](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.dejotyyr8bo3)
 * Added language to the Admin Soft Skills doc on [Managing Up for Salesforce Investment](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.cl5fiyq73wvf)
+* Added language to the Admin Soft Skills doc on [Documentation](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.jkyiwsp6hgik)
+* Added language to the Admin Soft Skills doc on [Project Management](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit#heading=h.41oj2djfjicl)
 * Updated organization of document, breaking the sections into four groupings: 1. Optimizing Your Salesforce CRM  2. Core Admin Skills 3. Interaction with Users 4. Utilizing the Salesforce Ecosystem
+* Created a plan for the final editing project to polish the document and get it ready to be shared with the Salesforce Nonprofit Ohana
+* Brainstormed Next Steps for this project in future Community Sprints
 
 
 ### Project Team - September 23rd - 24th 2020
