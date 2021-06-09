@@ -29,10 +29,23 @@ https://powerofus.force.com/s/group/0F91E000000brOySAI/admin-skills-nonprofit-sa
 Pick a section where you can offer expertise or extensive personal experience, and form a group of 3-6 others who feel the same. In your working group, identify one person who will be the "Synthesizer / Scribe" who will *from the very beginning of the work* be responsible for writing a well-formatted narrative or clean outline of the content you'd like to publish/share by the end of the sprint. Below that synthesized content can be a long collection of thoughts, bullet points, all kinds of material...just start at the beginning having someone keep an eye toward the end of the sprint by bringing together the highlights into a shareable format.
 
 ### Project Team - June 9th - 10th 2021
-Full Name            | Team Role     | Github Username                              | Working Group3 
+Full Name            | Team Role     | Github Username                              | Working Group4
 ------------         | ------------- | -------------                                |-------------   
 Rachel Ciprotti      | Group Leader  | [rciprotti](https://github.com/rciprotti)    | 
-Mark Jones           | Contributor   | [thisismarkjones](https://github.com/thisismarkjones)     | 
+Eric Bruenner        | Contributor   | [eb36OT](https://github.com/eb36OT) | Change Management
+Sandeepa Epuri       | Contributor   | [sandeepae](https://github.com/sandeepae) | Testing
+Kyle Gaubert         | Contributor   | [kgaubert](https://github.com/kgaubert) | Editing
+Zach Hooks           | Contributor   | [zhooks](https://github.com/zhooks) |
+Mark Jones           | Contributor   | [thisismarkjones](https://github.com/thisismarkjones)     | Testing
+Rupinder Kaur        | Contributor   |                  | Working with a Consultant
+Abby Morrow          | Contributor   | [abbym-selamta](https://github.com/abbym-selamta]) | Testing
+Christian Novak      | Contributor   | [Newstole](https://github.com/Newstole) | Change Management
+Umayal Ramasubramanian | Contributor  | [umayal1983](https://github.com/umayal1983)     | Change Management
+Shiva Tej Sarab      | Contributor   | [shiva-sarab](https://github.com/shiva-sarab) | Testing
+Eric Steeves         | Contributor   | [pkasolves](https://github.com/pkasolves) | Editing, Working with a Consultant
+Matthew Steiner      | Contributer   | [msteinertod](https://github.com/msteinertod)    | Working with a Consultant
+Rebecca Tasetano     | Contributor   | [pkasolves](https://github.com/pkasolves) | Editing, Working with a Consultant
+Kathy Waterworth     | Contributor   | [kathy-waterworth](https://github.com/kathy-waterworth)     | Editing    
 
 ### June 9 - 10 2021 Sprint Project Team Accomplishments
 (Accomplishments will be listed here soon!)
