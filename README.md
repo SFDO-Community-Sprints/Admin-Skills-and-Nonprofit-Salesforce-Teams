@@ -12,12 +12,7 @@ https://powerofus.force.com/s/group/0F91E000000brOySAI/admin-skills-nonprofit-sa
 
 ### Future Contributions Requested
 * In general, help **complete this document** so it's ready to be published in the near future.
-* **Add content** to incomplete sections in the [Admin Soft Skills doc](https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q/edit):
-    - Documentation
-    - Managing up for Salesforce investment
-    - Working with a Consultant
-    - Creating a Governance Program 
-* **Create a plan** for distribution of the document: 
+* **Fulfill the plan** for distribution of the document: 
     - How/When/Who will create a site home for the document and future projects of this group
     - Creation of website
     - Marketing/Promotion
@@ -32,23 +27,28 @@ Pick a section where you can offer expertise or extensive personal experience, a
 Full Name            | Team Role     | Github Username                              | Working Group4
 ------------         | ------------- | -------------                                |-------------   
 Rachel Ciprotti      | Group Leader  | [rciprotti](https://github.com/rciprotti)    | 
-Eric Bruenner        | Contributor   | [eb36OT](https://github.com/eb36OT) | Change Management
+Eric Bruenner        | Contributor   | [eb36OT](https://github.com/eb36OT) | Change Management, Testing, Strategy for the Project
 Sandeepa Epuri       | Contributor   | [sandeepae](https://github.com/sandeepae) | Testing
-Kyle Gaubert         | Contributor   | [kgaubert](https://github.com/kgaubert) | Editing
-Zach Hooks           | Contributor   | [zhooks](https://github.com/zhooks) |
-Mark Jones           | Contributor   | [thisismarkjones](https://github.com/thisismarkjones)     | Testing
-Rupinder Kaur        | Contributor   |                  | Working with a Consultant
-Abby Morrow          | Contributor   | [abbym-selamta](https://github.com/abbym-selamta]) | Testing
-Christian Novak      | Contributor   | [Newstole](https://github.com/Newstole) | Change Management
+Kyle Gaubert         | Contributor   | [kgaubert](https://github.com/kgaubert) | Editing for the Project, Testing, Strategy for the Project
+Mark Jones           | Contributor   | [thisismarkjones](https://github.com/thisismarkjones)     | Testing, Strategy for the Project
+Rupinder Kaur        | Contributor   |                  | Working with a Consultant, Governance, Strategy for the Project
+Abby Morrow          | Contributor   | [abbym-selamta](https://github.com/abbym-selamta]) | Testing, Strategy for the Project
+Christian Novak      | Contributor   | [Newstole](https://github.com/Newstole) | Change Management, Testing, Strategy for the Project
 Umayal Ramasubramanian | Contributor  | [umayal1983](https://github.com/umayal1983)     | Change Management
-Shiva Tej Sarab      | Contributor   | [shiva-sarab](https://github.com/shiva-sarab) | Testing
-Eric Steeves         | Contributor   | [pkasolves](https://github.com/pkasolves) | Editing, Working with a Consultant
-Matthew Steiner      | Contributer   | [msteinertod](https://github.com/msteinertod)    | Working with a Consultant
-Rebecca Tasetano     | Contributor   | [pkasolves](https://github.com/pkasolves) | Editing, Working with a Consultant
-Kathy Waterworth     | Contributor   | [kathy-waterworth](https://github.com/kathy-waterworth)     | Editing    
+Shiva Tej Sarab      | Contributor   | [shiva-sarab](https://github.com/shiva-sarab) | Testing, Strategy for the Project
+Eric Steeves         | Contributor   | [pkasolves](https://github.com/pkasolves) | Editing for the Project, Working with a Consultant
+Matthew Steiner      | Contributer   | [msteinertod](https://github.com/msteinertod)    | Working with a Consultant, Governance, Strategy for the Project
+Rebecca Tasetano     | Contributor   | [pkasolves](https://github.com/pkasolves) | Editing for the Project, Working with a Consultant
+Kathy Waterworth     | Contributor   | [kathy-waterworth](https://github.com/kathy-waterworth)     | Editing for the Project, Governance, Strategy for the Project
 
 ### June 9 - 10 2021 Sprint Project Team Accomplishments
-(Accomplishments will be listed here soon!)
+* Added language to the Admin Soft Skills doc on Testing
+* Added language to the Admin Soft Skills doc on Creating a Governance Program
+* Added language to the Admin Soft Skills doc on Change Management
+* Added language to the Admin Soft Skills doc on Working with a Consultant
+* Created Style Guide for the document
+* Made a plan for editing the document to make it ready to publich before the Sprint in Sept/Oct
+* Decided on platform for publishing the document and brainstormed ideas for next projects for this group
 
 ### Project Team - February 10th - 11th 2021
 Full Name            | Team Role     | Github Username                              | Working Group3 
