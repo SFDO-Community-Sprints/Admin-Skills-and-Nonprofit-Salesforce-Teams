@@ -20,6 +20,12 @@ https://powerofus.force.com/s/group/0F91E000000brOySAI/admin-skills-nonprofit-sa
     - Removal of repetitive advice across sections (either link to another relevant section or at least copy the text in multiple places for consistency).
     - Creation of a consistent 'voice' throughout the document.
 
+### Planned EMEA Contributions (29 June 2021)
+* **Review the Google Doc** created in the AMER Sprints to check for anything that doesn't fit an EMEA context.
+    - This will be done by working through a copied version of the doc to ensure no alterations are made to the AMER version.
+    - After the event, this work will be reviewed in order to decide on a plan for implementing any points raised via the review.
+* **Begin drafting Guidance for Employers Documentation** focusing on supporting the development/upskilling of Salesforce Admins.
+
 ### Recommended Working Format
 Pick a section where you can offer expertise or extensive personal experience, and form a group of 3-6 others who feel the same. In your working group, identify one person who will be the "Synthesizer / Scribe" who will *from the very beginning of the work* be responsible for writing a well-formatted narrative or clean outline of the content you'd like to publish/share by the end of the sprint. Below that synthesized content can be a long collection of thoughts, bullet points, all kinds of material...just start at the beginning having someone keep an eye toward the end of the sprint by bringing together the highlights into a shareable format.
 
