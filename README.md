@@ -1,5 +1,5 @@
 ### Project Name
-Admin Skills and Nonprofit Salesforce Team Roles
+Nonprofit Salesforce Admin Skills
 
 ### Project Goals
 * Support admins + their supervisors in forming strong Salesforce teams.
@@ -9,6 +9,9 @@ Admin Skills and Nonprofit Salesforce Team Roles
 
 ### Hub Group Link
 https://powerofus.force.com/s/group/0F91E000000brOySAI/admin-skills-nonprofit-salesforce-team
+
+### Working Document Link
+https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q 
 
 ### Future Contributions Requested
 * In general, help **complete this document** so it's ready to be published in the near future.
