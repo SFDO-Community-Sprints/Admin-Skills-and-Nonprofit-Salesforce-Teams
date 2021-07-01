@@ -32,6 +32,35 @@ https://docs.google.com/document/d/1Zm7H5ItAS-UZC8IVvlzNYG_ZV3QXkP4FAC-C9IILP4Q
 ### Recommended Working Format
 Pick a section where you can offer expertise or extensive personal experience, and form a group of 3-6 others who feel the same. In your working group, identify one person who will be the "Synthesizer / Scribe" who will *from the very beginning of the work* be responsible for writing a well-formatted narrative or clean outline of the content you'd like to publish/share by the end of the sprint. Below that synthesized content can be a long collection of thoughts, bullet points, all kinds of material...just start at the beginning having someone keep an eye toward the end of the sprint by bringing together the highlights into a shareable format.
 
+### Project Team - June 29th 2021
+Full Name            | Team Role     | Github Username                              | Working Group/s
+------------         | ------------- | -------------                                |-------------   
+Mark Jones      | Group Leader  | [ThisIsMarkJones](https://github.com/ThisIsMarkJones)    |
+Emma Keeling    | Group Leader  | [SalesforceEm](https://github.com/SalesforceEm)   |
+Akash Mishra    | Contributor   | [aka5h4u](https://github.com/aka5h4u)             | Admin Skills Doc Review   |
+Blasovia Monique Erinna | Contributor   | [emailgroupie](https://github.com/emailgroupie)   | Guidance for Employers Doc (Initial Planning, Community Engagement)   |
+Hab Muluye      | Contributor   | [Hab0204](https://github.com/Hab0204)             | Admin Skills Doc Review   |
+Joseph Bassey   | Contributor   | [Harveyworld06](https://github.com/Harveyworld06) | Admin Skills Doc Review   |
+Kathleen Waterworth | Contributor   | [Kathy-Waterworth](https://github.com/Kathy-Waterworth)   | Admin Skills Doc Review   |
+Parvathy Thampi | Contributor   | N/A                                               | Guidance for Employers Doc (Initial Planning, Community Engagement)   |
+Philip Denton   | Contributor   | [Phil-theforce](https://github.com/Phil-theforce) | Admin Skills Doc Review   |
+Prakash Jagadeep K  | Contributor   | [prakashjagadeep](https://github.com/prakashjagadeep) | Guidance for Employers Doc (Initial Planning, Training)   |
+Raksha Sananee  | Contributor   | [rakshasanganee](https://github.com/rakshasanganee)   | Guidance for Employers Doc (Initial Planning, Skills Development, Training)   |
+Sheetal Chougule    | Contributor   | [sheetalchougule-git](https://github.com/sheetalchougule-git) | Guidance for Employers Doc (Initial Planning, Skills Development) |
+Sheila Powell   | Contributor   | [sheilap127](https://github.com/sheilap127)       | Admin Skills Doc Review   |
+Shilpa Srikantachar | Contributor   | [shilpaRAD](https://github.com/shilpaRAD)     | Admin Skills Doc Review   |
+Sue Pippel      | Contributor   | [AlohaSFSue](https://github.com/AlohaSFSue)       | Guidance for Employers Doc (Initial Planning) |
+Vicki Moritz-Henry  | Contributor   | [vickihenry](https://github.com/vickihenry)   | Guidance for Employers Doc (Initial Planning, Training)   |
+Vishu P         | Contributor   | [Vishupi](https://github.com/vishupi)             | Admin Skills Doc Review   |
+Yvonne Navas    | Contributor   | [ynavas](https://github.com/ynavas)               | Guidance for Employers Doc (Initial Planning) |
+
+### June 29 2021 Sprint Project Team Accomplishments
+* Reviewed the Admin Skills Doc and made a number of suggestions related to updates to the document.
+* Added comments related to AMER centric themes and language throughout the Admin Skills Doc.
+* Began working on the Guidance Document for Employers.
+* Decided upon sections for the document including: Introduction, Skills Development, Training, and Community Engagement.
+* Starting drafting the Skills Development, Training and Community Engagement sections of the Guidance Document for Employers.
+
 ### Project Team - June 9th - 10th 2021
 Full Name            | Team Role     | Github Username                              | Working Group4
 ------------         | ------------- | -------------                                |-------------   
